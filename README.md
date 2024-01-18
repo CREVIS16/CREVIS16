@@ -20,8 +20,7 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
 
 <br><br>
 
@@ -34,19 +33,11 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+    ![java](https://www.google.com.mx/imgres?imgurl=https%3A%2F%2Fimages.idgesg.net%2Fimages%2Farticle%2F2019%2F05%2Fjava_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg%3Fauto%3Dwebp%26quality%3D85%2C70&tbnid=_osDBNVF8zTa_M&vet=12ahUKEwjzlKjliOaDAxVq58kDHZ-WARgQMygQegUIARCVAQ..i&imgrefurl=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F3666525%2F7-reasons-java-is-still-great.html&docid=cuK6C9LxSs5R1M&w=1200&h=800&q=java&ved=2ahUKEwjzlKjliOaDAxVq58kDHZ-WARgQMygQegUIARCVAQ)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
-    
-- **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
 
 - **Cloud Hosting**:
 
@@ -140,7 +131,7 @@
 
 <div align='center'>
 
-## <b>ا✨ Código es poesía digital ✨</b>
+## <b>✨Código es poesía digital✨ </b>
 
 </div>
 <br>
