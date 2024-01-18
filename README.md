@@ -34,7 +34,7 @@
 - **Languages**:
     
 
-    ![java](https://www.google.com.mx/imgres?imgurl=https%3A%2F%2Fimages.idgesg.net%2Fimages%2Farticle%2F2019%2F05%2Fjava_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg%3Fauto%3Dwebp%26quality%3D85%2C70&tbnid=_osDBNVF8zTa_M&vet=12ahUKEwjzlKjliOaDAxVq58kDHZ-WARgQMygQegUIARCVAQ..i&imgrefurl=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F3666525%2F7-reasons-java-is-still-great.html&docid=cuK6C9LxSs5R1M&w=1200&h=800&q=java&ved=2ahUKEwjzlKjliOaDAxVq58kDHZ-WARgQMygQegUIARCVAQ)
+    ![java](https://img.shields.io/badge/JAVA%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
