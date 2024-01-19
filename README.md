@@ -12,8 +12,7 @@
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
-- Apasionado desarrollador Front-end autodidacta.
-- Jugando CTF en el tiempo libre.
+- Apasionado desarrollador autodidacta.
 - Aprendiendo Desarrollo Web por cuenta propia.
 
 <br><br>
